@@ -160,7 +160,7 @@ Alternatively to the procedure with `<ProcessNode>` and its counterpart `<Record
             <Td>
               <Paragraph><Value>Article number</Value></Paragraph>
             </Td>
-            </Td>
+            <Td>
               <Paragraph><Value>Description</Value></Paragraph>
             </Td>
           </Tr>

@@ -112,6 +112,7 @@ Texts with a page break are not output with <PlaceObject> like the other objects
 -------------------------------------------------------------------------------
 <Output>
   <Text>
+   <NewPage />
     <Paragraph>
       <Value>...</Value>
     </Paragraph>
